@@ -1,0 +1,214 @@
+
+
+
+
+header {
+    background-color: rgb(255, 156, 123);
+    height: 55px;
+ }
+
+ header a:link, header a:visited {
+    color: rgb(51, 51, 51);
+ }
+ 
+ header a:active, header a:hover {
+    color: rgb(255, 211, 211);
+ }
+
+
+
+img {
+    width: 1474px;
+    height: 140px;
+}
+
+#index {
+    background-image: url('../img/instrumentos.webp');
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    background-position: 40px 260px;
+    background-attachment: fixed;
+}
+
+iframe {
+    position: relative;
+    left: 620px;
+
+}
+
+#costado1 {
+    background-color: #f5a973;
+}
+
+#datos {
+    background-color: #fcbe92;
+}
+
+
+#clarinete_img {
+    width: 200px;
+    height: 200px;
+}
+
+#Clarinete_txt {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#trompeta_img {
+    position: relative;
+    float: right;
+    width: 200px;
+    height: 200px;
+    bottom: 16px;
+    right: 145px;
+}
+#trompeta_txt {
+font-family: 'Courier New', Courier, monospace;
+}
+
+#flauta_img {
+    width: 200px;
+    height: 200px;
+}
+
+#flauta_txt {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#tuba_img {
+    position: relative;
+    float: right;
+    width: 200px;
+    height: 200px;
+    bottom: 20px;
+    right: 150px;
+}
+
+#tuba_txt {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#guitarra_img {
+    width: 200px;
+    height: 200px;
+}
+
+#guitarra_txt {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#guitaele_img {
+    position: relative;
+    float: right;
+    width: 200px;
+    height: 200px;
+    bottom: 2px;
+    right: 79px;
+}
+
+#guitaele_txt {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#violin_img {
+    width: 200px;
+    height: 200px;
+}
+
+#violin_txt {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#ukulele_img {
+    position: relative;
+    float: right;
+    width: 200px;
+    height: 200px;
+    bottom: 05px;
+    right: 138px;
+}
+
+#ukulele_txt {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#pande_img {
+    width: 200px;
+    height: 200px;
+}
+
+#pande_txt {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#tambor_img {
+    position: relative;
+    float: right;
+    width: 200px;
+    height: 200px;
+    bottom: 03px;
+    right: 138px;
+}
+
+#tambor_txt {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#plat_img {
+    width: 200px;
+    height: 200px;
+}
+
+#plat_txt {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#trian_img {
+    position: relative;
+    float: right;
+    width: 200px;
+    height: 200px;
+    bottom: 13px;
+    right: 118px;
+}
+
+#trian_txt {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#plant_txt {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+section p {
+    color: #fca84e;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+section h2 {
+    color: #994a2b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section h3 {
+    color: #cc5f3d;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    color: #f5a973;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
+footer {
+    background-color: rgb(222, 137, 108);
+    height: 79px;
+    color: aliceblue;
+    
+}
+

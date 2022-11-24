@@ -1,0 +1,56 @@
+
+/*posicion y medida textos*/
+
+
+
+#trompeta_txt {
+    position: relative;
+    float: right;
+    bottom: 52px;
+    right: 326px;
+}
+
+#tuba_txt {
+    position: relative;
+    float: right;
+    bottom: 55px;
+    right: 356px;
+}
+
+#guitaele_txt {
+    position: relative;
+    float: right;
+    bottom: 50px;
+    right: 278px;
+}
+
+#ukulele_txt {
+    position: relative;
+    float: right;
+    bottom: 50px;
+    right: 338px;
+}
+
+#tambor_txt {
+    position: relative;
+    float: right;
+    bottom: 51px;
+    right: 338px;
+}
+
+#trian_txt {
+    position: relative;
+    float: right;
+    bottom: 51px;
+    right: 322px;
+}
+
+
+#serv {
+    background-image: url('img/fondo 1.jpg');
+}
+
+
+
+
+
